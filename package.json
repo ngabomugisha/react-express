@@ -1,0 +1,22 @@
+{
+  "name": "react-express",
+  "version": "1.0.0",
+  "description": "for developing my skills on reactJS and Express frameworks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngabomugisha/react-express.git"
+  },
+  "keywords": [
+    "JS"
+  ],
+  "author": "Robert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ngabomugisha/react-express/issues"
+  },
+  "homepage": "https://github.com/ngabomugisha/react-express#readme"
+}
